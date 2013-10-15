@@ -1,0 +1,14 @@
+eclipse.preferences.version=1
+encoding//src/pyunit/exercise/background_task.py=utf-8
+encoding//src/pyunit/exercise/calculator.py=utf-8
+encoding//src/pyunit/exercise/counter.py=utf-8
+encoding//src/pyunit/exercise/item.py=utf-8
+encoding//src/pyunit/exercise/item_stock.py=utf-8
+encoding//src/pyunit/exercise/number_utils.py=utf-8
+encoding//src/pyunit/exercise/string_utils.py=utf-8
+encoding//test/pyunit/exercise/background_task_test.py=utf-8
+encoding//test/pyunit/exercise/calculator_test.py=utf-8
+encoding//test/pyunit/exercise/counter_test.py=utf-8
+encoding//test/pyunit/exercise/item_stock_test.py=utf-8
+encoding//test/pyunit/exercise/number_utils_test.py=utf-8
+encoding//test/pyunit/exercise/string_utils_test.py=utf-8
